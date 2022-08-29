@@ -36,6 +36,22 @@ Graduate in Systems and Computer Engineering from the Catholic University Santo 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/asloth"><img src="https://github-readme-stats.vercel.app/api?username=asloth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="asloth's GitHub stats" /></a>
+<!-- Light Mode -->
+<div align="center"> 
+  <a href="https://github.com/asloth#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=asloth&show_icons=true&line_height=28&card_width=450" alt="Github stats" />
+  </a>
+  <a href="https://github.com/asloth#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asloth&layout=compact&langs_count=10" alt="Language stats" />
+   </a>
+</div>
 
-<a href="http://www.github.com/asloth"><img src="https://activity-graph.herokuapp.com/graph?username=asloth&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- Dark Mode -->
+<div align="center"> 
+  <a href="https://github.com/asloth#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=asloth&show_icons=true&line_height=28&card_width=450&theme=dark&bg_color=000000&border_color=333333" alt="Github stats" />
+  </a>
+  <a href="https://github.com/asloth#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asloth&layout=compact&langs_count=10&theme=dark&bg_color=000000&border_color=333333" alt="Language stats" />
+  </a>
+</div>
