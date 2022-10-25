@@ -8,9 +8,8 @@ Graduate in Systems and Computer Engineering from the Catholic University Santo 
 
 *   🌍  I'm based in Chiclayo, Perú
 *   ✉️  You can contact me at [sbenelramirez@gmail.com](mailto:sbenelramirez@gmail.com)
-*   🧠  I'm learning Django on [Platzi](http://platzi.com)
+*   🧠  I'm learning new technologies on [Platzi](http://platzi.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer
-*   ⚡  Looking for my first job in tech
 
 ### Skills
 
