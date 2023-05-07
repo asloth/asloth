@@ -6,9 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Graduate in Systems and Computer Engineering from the Catholic University Santo Toribio de Mogrovejo. I have knowledge in Object-Oriented Programming, Data Structures, Algorithms, Database Systems and Problem Solving skills. I am more comfortable working with Java, Python, Dart, JavaScript and Go. I am passionate about learning Back-End technologies, Machine Learning and Linux.
 
-*   🌍  I'm based in Chiclayo, Perú
+*   🌍  I'm based in Lima, Perú
 *   ✉️  You can contact me at [sbenelramirez@gmail.com](mailto:sbenelramirez@gmail.com)
-*   🧠  I'm learning new technologies on [Platzi](http://platzi.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
