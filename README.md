@@ -29,26 +29,5 @@ Graduate in Systems and Computer Engineering from the Catholic University Santo 
 ### Socials
 
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<!-- Light Mode -->
-<div align="center"> 
-  <a href="https://github.com/asloth#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=asloth&show_icons=true&line_height=28&card_width=450" alt="Github stats" />
-  </a>
-  <a href="https://github.com/asloth#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asloth&layout=compact&langs_count=10" alt="Language stats" />
-   </a>
-</div>
-
-<!-- Dark Mode -->
-<div align="center"> 
-  <a href="https://github.com/asloth#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=asloth&show_icons=true&line_height=28&card_width=450&theme=dark&bg_color=000000&border_color=333333" alt="Github stats" />
-  </a>
-  <a href="https://github.com/asloth#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=asloth&layout=compact&langs_count=10&theme=dark&bg_color=000000&border_color=333333" alt="Language stats" />
-  </a>
-</div>
