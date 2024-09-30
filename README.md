@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Mobile+Developer;Backend+Developer)](https://git.io/typing-svg)
 ----------------------------
 
-Graduate in Systems and Computer Engineering from the Catholic University Santo Toribio de Mogrovejo. I have knowledge in Object-Oriented Programming, Data Structures, Algorithms, Database Systems and Problem Solving skills. I am more comfortable working with Java, Python, Dart, JavaScript and Go. I am passionate about learning Back-End technologies, Machine Learning and Linux.
+Graduate in Systems and Computer Engineering. I am more comfortable working with Java, Python and Go. I am passionate about learning Back-End technologies, Machine Learning and Linux.
 
 *   🌍  I'm based in Lima, Perú
 *   ✉️  You can contact me at [sbenelramirez@gmail.com](mailto:sbenelramirez@gmail.com)
