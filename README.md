@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sara 
 ==================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Mobile+Developer;Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Backend+Developer)](https://git.io/typing-svg)
 ----------------------------
 
 Graduate in Systems and Computer Engineering. I am more comfortable working with Java, Python and Go. I am passionate about learning Back-End technologies, Machine Learning and Linux.
