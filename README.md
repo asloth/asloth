@@ -1,13 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sara 
 ==================================================================================================================================
+> whoami
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+engineer;MLOps+engineer;)](https://git.io/typing-svg)
-----------------------------
+A Linux enthusiast and Developer building at the intersection of Data Engineering and AI. I specialize in architecting autonomous systems and scalable data pipelines, with a current focus on agentic workflows and MLOps.
 
-Data Engineer with over 3 years of experience. I enjoy building robust data pipelines and am always focused on creating solutions that deliver measurable business value. Constantly exploring new technologies in Data Engineering and MLOps to enhance my skills.
+    OS: Arch Linux (btw)
 
-*   🌍  I'm based in Lima, Perú
-*   ✉️  You can contact me at [sbenelramirez@gmail.com](mailto:sbenelramirez@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects
+    Terminal: Kitty
+
+    Focus: Data Engineering • Agentic Workflows • MLOps
+
+    Current Quest: Pursuing a GenAI Diplomado to master generative systems and LLM orchestration.
+
+    Learning: Advanced AI Agent frameworks (Google ADK) & Deep Learning fundamentals.
+
 
 
