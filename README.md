@@ -2,11 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 > whoami
 
-A Linux enthusiast and Developer building at the intersection of Data Engineering and AI. I specialize in architecting autonomous systems and scalable data pipelines, with a current focus on agentic workflows and MLOps.
+A Linux enthusiast and Developer building at the intersection of Data Engineering and AI. I specialize in architecting autonomous systems and scalable data pipelines, with a current focus on agentic workflows and MLOps. I like to be passionate about what I do and always do my best.
 
     OS: Arch Linux (btw)
-
-    Terminal: Kitty
 
     Focus: Data Engineering • Agentic Workflows • MLOps
 
