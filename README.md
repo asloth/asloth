@@ -4,40 +4,29 @@
 
 ---
 
-### `> whoami`
+Me gusta aprender siempre, ayudar con mi conocimiento, aportar valor e innovar.
 
-I build at the seam where **data engineering** meets **AI** — turning messy data and
-raw model weights into autonomous systems that actually ship. Right now I'm obsessed with
-**agentic workflows**: planners that decompose problems, workers that run in parallel, and
-**MLOps** pipelines that keep models honest in production. I move fast, break things on
-purpose, and rebuild them better.
+### 🚀 En lo que trabajo y exploro
 
-```text
-> Focus ..... Data Engineering · Agentic Workflows · MLOps
-> Building .. Multi-agent systems & scalable data pipelines
-```
+- **Agentic AI & MLOps:** Desarrollo de agentes de investigación profunda (LangGraph/LangSmith) y automatización de flujos de QA (Google GenAI SDK). Control del ciclo de vida y reproducibilidad de modelos en producción usando MLflow.
+- **Data Engineering Heavy-Lifting:** Orquestación de flujos transaccionales en tiempo real hacia Elasticsearch y optimización de ETLs masivos (Apache Spark, Databricks, Airflow).
+- **Arquitectura & Automatización:** Diseño de automatizaciones inteligentes y gobierno técnico garantizando seguridad, privacidad de datos y eficiencia operativa en el sector bancario.
 
-### 🧰 Tech Stack
+### 🛠️ Mi Stack Principal
 
-[![My Skills](https://skillicons.dev/icons?i=python,go,dart,js,ts,react,flutter,fastapi,pytorch,tensorflow,docker,postgres,linux,neovim&theme=dark)](https://skillicons.dev)
-&nbsp;
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-7B61FF?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+- **Lenguajes:** Python (Avanzado), SQL (Avanzado), Go, Scala, Java.
+- **AI / Data:** LangChain, LangGraph, MLflow, Spark, dbt, Pandas, Vector DBs (Chroma, Pinecone).
+- **Infra / DevOps:** AWS, Azure, Docker, CI/CD pipelines, Git, n8n.
 
-### 🚀 Featured Projects
+### 📌 Proyectos Destacados
 
-| Project | What it does | Stack |
+| Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**agent-researcher**](https://github.com/asloth/agent-researcher) | Autonomous research agent — planner fans out to parallel worker agents, then synthesizes a cited answer | LangGraph · FastAPI · React · MCP |
-| [**mlops-recetas**](https://github.com/asloth/mlops-recetas) | End-to-end MLOps workflow: fine-tune & serve an LLM for Latin American recipes | MLflow · Airflow · Docker · Unsloth |
-| [**agentic_api_tests**](https://github.com/asloth/agentic_api_tests) | Agents that generate test data and execute API tests | Python · LLM |
+| [**agent-researcher**](https://github.com/asloth/agent-researcher) | Agente de investigación autónomo — un planner reparte el trabajo en workers paralelos y sintetiza una respuesta con citas | LangGraph · FastAPI · React · MCP |
+| [**mlops-recetas**](https://github.com/asloth/mlops-recetas) | Flujo MLOps de extremo a extremo: fine-tuning y serving de un LLM para recetas latinoamericanas | MLflow · Airflow · Docker · Unsloth |
+| [**agentic_api_tests**](https://github.com/asloth/agentic_api_tests) | Agentes que generan datos de prueba y ejecutan tests sobre APIs | Python · LLM |
 
-### 🤝 Connect
+### 📫 Conecta conmigo
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sbenelramirez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/asloth"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+- **LinkedIn:** [linkedin.com/in/sbenelramirez](https://www.linkedin.com/in/sbenelramirez/)
+- **Email:** sbenelramirez@gmail.com
