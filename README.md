@@ -1,32 +1,26 @@
-<a href="#">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sara+%F0%9F%91%8B;Data+Engineer+%C3%97+AI+Builder;Architecting+autonomous+agentic+systems;MLOps+%E2%80%A2+LLM+orchestration+%E2%80%A2+Data+pipelines;Arch+Linux+enthusiast+(btw)+%F0%9F%90%A7" alt="typing header">
-</a>
+# Hi, I'm Sara 👋
 
----
+I love to keep learning, help others with what I know, and add value through innovation.
 
-Me gusta aprender siempre, ayudar con mi conocimiento, aportar valor e innovar.
+### 🚀 What I work on & explore
 
-### 🚀 En lo que trabajo y exploro
+- **Agentic AI & MLOps:** Building deep-research agents (LangGraph/LangSmith) and automating QA workflows (Google GenAI SDK). Managing model lifecycle and reproducibility in production with MLflow.
+- **Data Engineering, heavy-lifting:** Orchestrating real-time transactional flows into Elasticsearch and optimizing large-scale ETLs (Apache Spark, Databricks, Airflow).
+- **Architecture & Automation:** Designing intelligent automations and technical governance — ensuring security, data privacy, and operational efficiency in the banking sector.
 
-- **Agentic AI & MLOps:** Desarrollo de agentes de investigación profunda (LangGraph/LangSmith) y automatización de flujos de QA (Google GenAI SDK). Control del ciclo de vida y reproducibilidad de modelos en producción usando MLflow.
-- **Data Engineering Heavy-Lifting:** Orquestación de flujos transaccionales en tiempo real hacia Elasticsearch y optimización de ETLs masivos (Apache Spark, Databricks, Airflow).
-- **Arquitectura & Automatización:** Diseño de automatizaciones inteligentes y gobierno técnico garantizando seguridad, privacidad de datos y eficiencia operativa en el sector bancario.
+### 🛠️ Main stack
 
-### 🛠️ Mi Stack Principal
+- **Languages:** Python (advanced), SQL (advanced), Go, Scala, Java
+- **AI / Data:** LangChain, LangGraph, MLflow, Spark, dbt, Pandas, Vector DBs (Chroma, Pinecone)
+- **Infra / DevOps:** AWS, Azure, Docker, CI/CD pipelines, Git, n8n
 
-- **Lenguajes:** Python (Avanzado), SQL (Avanzado), Go, Scala, Java.
-- **AI / Data:** LangChain, LangGraph, MLflow, Spark, dbt, Pandas, Vector DBs (Chroma, Pinecone).
-- **Infra / DevOps:** AWS, Azure, Docker, CI/CD pipelines, Git, n8n.
+### 📌 Featured projects
 
-### 📌 Proyectos Destacados
+- **[agent-researcher](https://github.com/asloth/agent-researcher)** — autonomous research agent; a planner fans work out to parallel workers and synthesizes a cited answer. `LangGraph · FastAPI · React · MCP`
+- **[mlops-recetas](https://github.com/asloth/mlops-recetas)** — end-to-end MLOps workflow to fine-tune and serve an LLM for Latin American recipes. `MLflow · Airflow · Docker · Unsloth`
+- **[agentic_api_tests](https://github.com/asloth/agentic_api_tests)** — agents that generate test data and run tests against APIs. `Python · LLM`
 
-| Proyecto | Qué hace | Stack |
-|---|---|---|
-| [**agent-researcher**](https://github.com/asloth/agent-researcher) | Agente de investigación autónomo — un planner reparte el trabajo en workers paralelos y sintetiza una respuesta con citas | LangGraph · FastAPI · React · MCP |
-| [**mlops-recetas**](https://github.com/asloth/mlops-recetas) | Flujo MLOps de extremo a extremo: fine-tuning y serving de un LLM para recetas latinoamericanas | MLflow · Airflow · Docker · Unsloth |
-| [**agentic_api_tests**](https://github.com/asloth/agentic_api_tests) | Agentes que generan datos de prueba y ejecutan tests sobre APIs | Python · LLM |
+### 📫 Connect
 
-### 📫 Conecta conmigo
-
-- **LinkedIn:** [linkedin.com/in/sbenelramirez](https://www.linkedin.com/in/sbenelramirez/)
-- **Email:** sbenelramirez@gmail.com
+- LinkedIn: [linkedin.com/in/sbenelramirez](https://www.linkedin.com/in/sbenelramirez/)
+- Email: sbenelramirez@gmail.com
