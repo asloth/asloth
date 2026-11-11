@@ -12,10 +12,10 @@ I keep learning, I share what I know, and I try to leave things running better t
 
 ### Featured work
 
-- **[ccdesk](https://github.com/asloth/ccdesk)**: MCP server that lets Claude Code see and operate a Linux desktop (screenshots, mouse, keyboard, windows, clipboard, accessibility tree), with a skill for a look, act, verify loop.
-- **[agent-researcher](https://github.com/asloth/agent-researcher)**: research agent on LangGraph. A planner splits a question into angles, parallel workers investigate with tools, and a synthesizer writes a cited answer. FastAPI and React, with LanceDB memory served over MCP.
-- **[OpenRoutine](https://github.com/asloth/openroutine)**: open-source, local-first routine app for iOS and Android. Routines are plain JSON in your own Google Drive, with a documented schema that AI agents can read and edit. Not in the app stores yet.
-- **[mlops-recetas](https://github.com/asloth/mlops-recetas)**: fine-tunes Phi-3.5-mini with LoRA to generate Latin American recipes, with MLflow tracking, MinIO artifact storage and a daily Airflow retraining pipeline. Runs locally.
+- **[ccdesk](https://github.com/asloth/ccdesk)**: an MCP server that lets Claude Code see and control Linux apps, on your screen or a private one.
+- **[agent-researcher](https://github.com/asloth/agent-researcher)**: parallel research agents that search the web, index PDFs and return answers with citations to their sources.
+- **[OpenRoutine](https://github.com/asloth/openroutine)**: an open-source app for timed daily routines that works offline, with optional Google Drive sync for your own data.
+- **[mlops-recetas](https://github.com/asloth/mlops-recetas)**: a LoRA fine-tune that generates Latin American recipes, with MLflow experiment tracking and Airflow orchestration around it.
 
 ### What I work on
 
