@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Sara — soft eng, Lima, Perú" width="100%">
+  <img src="assets/lima-after-dark.gif" alt="Sara / asloth — animated monochrome ASCII of Lima’s moonlit coastline, rolling surf, and city skyline" width="100%">
 </p>
 
 I keep learning, I share what I know, and I try to leave things running better than I found them.
